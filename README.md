@@ -1,2 +1,2 @@
 # hello-world
-Hi,I am a young gifted girl
+hey! how can i become a programmer
